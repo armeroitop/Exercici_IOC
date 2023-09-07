@@ -8,6 +8,9 @@ public class ClasePrincipal {
 		System.out.print("hola");
 		
 		//Paso 2
+		
+		
+		//Paso 3
 
 	}
 
